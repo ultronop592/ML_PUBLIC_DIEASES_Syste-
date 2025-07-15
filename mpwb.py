@@ -33,7 +33,7 @@ with st.sidebar:
     # diabetes prediction satge 
 if (selected == 'Diabetes Prediction'):
     # input of the data 
-    st.title('Diabetes Presdiction using ML')
+    st.title('Diabetes Prediction using ML')
      
     
     # getting the input from the user 
